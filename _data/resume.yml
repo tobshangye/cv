@@ -113,8 +113,8 @@ footer: #脚注多组
   screen:
   - text: "简历脚注"
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "Made with &hearts; by Huqiantao"
+    href: "https://huqiantao.com/chat"
 
 #页面额外js脚本，如xx统计
 scripts:
